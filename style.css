@@ -41,3 +41,26 @@ h1{
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5)
 }
 
+/*********************************************** Form ******************************************************/
+
+#survey-form{
+    background: rgba(21, 20, 85, 0.7);
+    padding: 2.3rem 0.5rem;
+    border-radius: 0.3rem;
+}
+
+.form-input{
+    margin: 0 2.5rem 1.2rem 2rem;
+}
+
+.form-input-size{
+    display: block;
+    width: 100%;
+    height: 1.5rem;
+    padding: 0.3rem 0.4rem;
+    border-radius: 0.2rem;
+    outline: 0;
+    border-style: none;
+    margin-top: 0.4rem;   
+}
+
