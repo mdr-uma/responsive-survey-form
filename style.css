@@ -87,3 +87,19 @@ label {
   margin-bottom: 0.5rem;
 }
 
+textarea{
+  width: 100%;
+  min-height: 6rem;
+  resize: vertical;
+  padding: 0.5rem 0 0 0.5rem;
+}
+
+#submit{
+  width: 102%;
+  padding: 0.8rem;
+  background: rgb(7, 173, 7);
+  color: white;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  border: none;
+}
